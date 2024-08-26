@@ -1,6 +1,6 @@
 # Gerador de Arquivos Retroativos EFD
 
-![\](demointerface.png)](demointerface.png)
+![demointerface](https://github.com/user-attachments/assets/7028df03-c27c-4f2e-b9fe-30df4f41c73e)
 
 ## Visão Geral
 O Aplicativo de Arquivos Retroativos EFD é um aplicativo desenvolvido para auxiliar empresas e contadores na criação de arquivos TXT de Escrituração Fiscal Digital (EFD). Este aplicativo permite a importação de dados a partir de um arquivo CSV e gera automáticamente os arquivos TXT formatados de acordo com os layouts exigidos pelo guia prático da EFD. Além disso, os arquivos gerados são automáticamente compactados em um arquivo ZIP para facilitar o armazenamento e envio.
