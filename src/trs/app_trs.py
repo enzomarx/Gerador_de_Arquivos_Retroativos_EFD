@@ -7,16 +7,16 @@ time.sleep(3)
 # Importação
 for _ in range(1051):
     pyautogui.click(x=42, y=69) # clia em icon importr
-    time.sleep(1)
+    time.sleep(3)
     pyautogui.click(x=206, y=217) # Primeiro Arq
-    time.sleep(1)
+    time.sleep(3)
     pyautogui.press('enter')
-    time.sleep(5)
-    pyautogui.click(x=289, y=407) # validar conteudo
     time.sleep(7)
-    pyautogui.click(x=324, y=392) # ok
-    time.sleep(5)
-    pyautogui.click(x=324, y=392) # ok
+    pyautogui.press('enter') # validar conteudo
+    time.sleep(9)
+    pyautogui.press('enter') # ok
+    time.sleep(7)
+    pyautogui.press('enter') # ok
     time.sleep(5)
     pyautogui.click(x=228, y=69) # X laranja
     time.sleep(1)
