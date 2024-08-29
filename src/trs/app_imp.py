@@ -23,7 +23,7 @@ for _ in range(1000):
 
     # update explorer
     pyautogui.click(x=852, y=67) # update button
-    time.sleep(1)
+    time.sleep(0.40)
     pyautogui.click(914, 185)
     time.sleep(1)
     pyautogui.hotkey('ctrl', 'x')
@@ -32,6 +32,6 @@ for _ in range(1000):
     time.sleep(1)
     pyautogui.hotkey('ctrl', 'v')
     time.sleep(1)
-    pyautogui.click(1003, 25)
+    pyautogui.click(811, 21)
     time.sleep(2)
 
