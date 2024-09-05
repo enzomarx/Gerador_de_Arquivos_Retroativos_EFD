@@ -5,7 +5,7 @@ pyautogui.PAUSE = 0.70
 time.sleep(1.5)
 
 # Importação
-for _ in range(1000):
+for _ in range(144):
     pyautogui.click(x=42, y=69) # clia em icon importr
     time.sleep(3)
     pyautogui.click(x=206, y=217) # Primeiro Arq
